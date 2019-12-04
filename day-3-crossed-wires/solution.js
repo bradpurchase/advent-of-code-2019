@@ -1,3 +1,6 @@
+// --- Day 3: Crossed Wires ---
+// https://adventofcode.com/2019/day/3
+
 const fs = require('fs')
 
 const file = fs.readFileSync('input.txt', 'utf-8').split('\n')
